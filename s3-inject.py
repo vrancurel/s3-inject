@@ -3,7 +3,7 @@ import multiprocessing
 
 N_THREADS=50
 N_OBJS=10
-BUCKET=giorgio5
+BUCKET='giorgio5'
 
 def myfunc(i):
     print(i)
